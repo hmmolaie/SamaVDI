@@ -1,4 +1,4 @@
-##SamaVDI is a custom linux light OS and user friendly remote desktop for x86
+## SamaVDI is a custom linux light OS and user friendly remote desktop for x86
 
 # Welcome to SamaVDI
 
