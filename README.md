@@ -1,4 +1,4 @@
-## SamaVDI is a linux light OS and user friendly remote desktop client for x86 produced by Kaipod(https://kaipod.ir) Homeland Security Co 
+## SamaVDI is a linux light OS and user friendly remote desktop client for x86 produced by [Kaipod](https://kaipod.ir) Homeland Security Co 
 
 # Welcome to SamaVDI
 
