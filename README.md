@@ -12,8 +12,9 @@ And vdi solution:
 ### Requirements
   a x86 PC with USB or HDD and network NIC only!.
 ### Download
-  you can download image from [here](http://kaipod.ir/products/SAMA_VDI_v2.0-img.zip).
+  1) you can download iso (for born on dvd and install) from [here](http://kaipod.ir/products/SAMA_VDI_v2.0-cdrom.zip).
+  2) you can download image (for copy on usb flash and boot from this)  from [here](http://kaipod.ir/products/SAMA_VDI_v2.0-img.zip).
 ### Installation
- copy image file to your SD card with raw disk image writer.(like dd in linux or [win32 disk imager](https://sourceforge.net/projects/win32diskimager/) for windows)
+ for pc without HDD you can copy image file to your usb flash with raw disk image writer.(like dd in linux or [win32 disk imager](https://sourceforge.net/projects/win32diskimager/) for windows)
 ### Configuration
   when welcome page appeared, press "END" key for setting... default password is "vdi".
